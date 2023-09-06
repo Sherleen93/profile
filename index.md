@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to Shuwan Zhu's Home page
 
-<img class="profile-picture" src="https://avatars.githubusercontent.com/waynehfut">
+<img class="profile-picture" src="https://avatars.githubusercontent.com/Sherleen93">
 
 Greetings! I am a lecturer from School of Management, Hefei University of Technology. Before that, I received my a Ph.D. degree in Management Science and Engineering from the Hefei University of Technology under the supervision of Prof. Shanlin Yang in 2021. Previously, I worked as a visiting scholar (2019-2020) at the University of Pittsburgh under the supervision of Prof. Youtao Zhang and received my B.S. degree in Software Engineering from the Hefei University of Technology in 2016.
 
