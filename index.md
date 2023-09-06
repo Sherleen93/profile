@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to Hao Wang's Home page
+## Welcome to Shuwan Zhu's Home page
 
 <img class="profile-picture" src="https://avatars.githubusercontent.com/waynehfut">
 
